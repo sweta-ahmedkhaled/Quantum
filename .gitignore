@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IBM credentials / notes
+IBM Account/
+
+# TEMP Ignorance
+MOT Marketing/
+
+Deep Learning/
+
+
+# Temporary files
+*.log
